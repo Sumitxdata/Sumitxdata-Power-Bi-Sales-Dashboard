@@ -1,6 +1,6 @@
 # Sumitxdata-Power-Bi-Sales-Dashboard
 Overview | Explanation | Suggestion
-Overview of the Project
+# Overview of the Project
 
 <img width="594" alt="Image" src="https://github.com/user-attachments/assets/686efc97-fd61-43c9-9e67-b2ef647c4e22" />
 
@@ -18,37 +18,37 @@ All key performance indicators (KPIs) include total sales, profit, orders, and a
 
 This graph shows the monthly profit of the company for the current year and the previous year. The graph shows that the profit has increased in the current year as compared to the previous year.
 
-2.Sum of Sales by Category
+# 2.Sum of Sales by Category
 
 <img width="138" alt="Image" src="https://github.com/user-attachments/assets/57950f82-85ec-46bf-83f1-f5c9dfee0049" />
 
 This graph shows the sum of sales for each category of products sold by the company. The graph shows that the highest sales are for the "Office Supplies" followed by "Technology" category, and "Furniture".
-
-3.Monthly Sales by YoY:
+ 
+# 3.Monthly Sales by YoY:
 
 <img width="158" alt="Image" src="https://github.com/user-attachments/assets/c8b91f7d-519c-49ee-af31-140cf54c025c" />
 
 This graph shows the monthly sales of the company for the current year and the previous year. The graph shows that the sales have increased in the current year as compared to the previous year.
 
-4.Top 3 Sub-Category by sales:
+# 4.Top 3 Sub-Category by sales:
 
 <img width="142" alt="Image" src="https://github.com/user-attachments/assets/233dac43-94b8-4821-885d-417c2eeed6c3" />
 
 This graph shows the top 3 sub-categories of products sold by the company. The graph shows that the highest sales are for "Phones", followed by "Binders" and "Paper".
 
-5.Sales and profit by State:
+# 5.Sales and profit by State:
 
 <img width="202" alt="Image" src="https://github.com/user-attachments/assets/2b48c9a5-8d32-421d-93cf-7b958ccb91a4" />
 
 This graph illustrates the total sales and profit sums by state, with California standing out as having the highest figures for both sales and profit.
 
-6.Sum of Sales by Segment and Payment Mode:
+# 6.Sum of Sales by Segment and Payment Mode:
 
 <img width="187" alt="Image" src="https://github.com/user-attachments/assets/bb14e9ed-7d75-4f80-942b-e7c349c888c9" />
 
 This graph shows the sum of sales for each segment of customers and payment mode used by the customers. The graph shows that the highest sales are for the "Consumer" segment, followed by "Corporate" and "Home Office". The most common payment mode used by the customers is "Credit Card".
 
-7.Sum of Sales by Order Date Sales forecast for 21 days:
+# 7.Sum of Sales by Order Date Sales forecast for 21 days:
 
 <img width="194" alt="Image" src="https://github.com/user-attachments/assets/30ca5941-6655-4fb7-aaff-613500bf47f8" />
 
