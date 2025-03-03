@@ -6,13 +6,13 @@ Overview of the Project
 
 The project is a sales dashboard that provides an overview of the sales performance of a company. The dashboard is divided into three rows and four columns. The top row has three graphs: "Monthly Profit by YoY", "Sum of Sales by Category", and "Monthly Sales by YoY". The middle row has two graphs: "Top 3 Sub-Category by sales" and "Sum of Sales by Segment and Payment Mode". The bottom row has two graphs: "Sum of Sales by Order Date Sales forecast for 21 days" and "United States Sum of Sales by State".
 
-KPI's
+# KPI's
 
 <img width="586" alt="Image" src="https://github.com/user-attachments/assets/a2081985-0470-4019-a582-931c2b152a11" />
 
 All key performance indicators (KPIs) include total sales, profit, orders, and average shipping days. Additionally, the dashboard features filters for segmentation based on different regions.
 
-1.Monthly Profit by YoY:
+# 1.Monthly Profit by YoY:
 
 <img width="158" alt="Image" src="https://github.com/user-attachments/assets/d9dbb274-44a0-4a30-a031-82922210a672" />
 
